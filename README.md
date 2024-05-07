@@ -14,10 +14,6 @@ The goal of this project was to utilize knowledge of the CIA triad, vulnerabilit
 - Creating a backup of a given file into the home directory using Linux commands.
 
 
-*A screenshot showing Administrator credentials*
-
-
-
 ### Tools Used
 
 - Kali Linux machine was used to run all the Linux commands. This was the main tool used to solve the task.
@@ -45,7 +41,7 @@ The goal of this project was to utilize knowledge of the CIA triad, vulnerabilit
    ![image](https://github.com/ansahtackie/The-Permission-Problem/assets/148600552/79531fcd-513b-4fac-9758-c648f053a7d1)
 
 - Interprete the file permission
-- 
+  
 
 ####  Analyzing MD5 Hash Values
 
