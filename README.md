@@ -17,7 +17,7 @@ The goal of this project was to utilize knowledge of the CIA triad, vulnerabilit
 ### Tools Used
 
 - Kali Linux machine was used to run all the Linux commands. This was the main tool used to solve the task.
-- 
+
 
 ## Steps
 
