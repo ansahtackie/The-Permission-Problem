@@ -59,7 +59,7 @@ The aim of this project was to leverage expertise in the CIA triad, vulnerabilit
 - Linux Command Line Tools
 
 
-## Steps
+## Steps Used
 
 ####  Identifying The Config.conf File
 - Locate the config.conf file from the system using Linux commands. The following screen shots show how the config,conf file was located.
